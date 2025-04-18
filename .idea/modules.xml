@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/npm_mock_interview.iml" filepath="$PROJECT_DIR$/.idea/npm_mock_interview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/jsm_mock_interview_platform.iml" filepath="$PROJECT_DIR$/.idea/jsm_mock_interview_platform.iml" />
     </modules>
   </component>
 </project>
